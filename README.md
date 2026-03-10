@@ -2,7 +2,7 @@
 
 #### Binderhub test in R
 
-[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/Australian-Text-Analytics-Platform/test-zip-url-download-notebook/HEAD?labpath=in-r/test.ipynb)
+[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/Australian-Text-Analytics-Platform/test-zip-url-download-notebook/HEAD?labpath=test.ipynb)
 
 #### Binderhub test in Python
 
